@@ -2,7 +2,7 @@
 Here you can acces of all the books I own and I strongly recommend :
 
 - [Mathematics for Machine Learning - Marc Peter Deisenroth](https://www.amazon.fr/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Mathematics+for+Machine+Learning&qid=1619962004&sr=8-1)  
-<img src="https://github.com/lbaret/my_books/blob/master/img/MML.jpg" width="200" height="240">
+<img src="https://github.com/lbaret/my_books/blob/master/img/MML.jpg" width="200" height="240">  
 - [The Hundred Page Machine Learning Book - Andriy Burkov](https://www.amazon.fr/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Hundred+Machine+Learning+book&qid=1619962050&sr=8-2)  
 <img src="https://github.com/lbaret/my_books/blob/master/img/100PML.jpg" width="200" height="240">
 - [Artificial Intelligence : A Modern Approach - Stuart Russel](https://www.amazon.fr/Artificial-Intelligence-Approach-Stuart-Russell/dp/0134610997/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1RH5GYSJ12M1T&dchild=1&keywords=artificial+intelligence+a+modern+approach&qid=1619962104&sprefix=Artificial+Intelligence+A+m%2Caps%2C268&sr=8-1)  
