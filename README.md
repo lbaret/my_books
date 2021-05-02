@@ -41,7 +41,7 @@ Here you can acces of all the books I own and I strongly recommend :
 <img src="https://github.com/lbaret/my_books/blob/master/img/DDIA.jpg" width="200" height="240">
 
 
-**Watch out** : Some books have a new editions.   
+**Watch out** : Some books  may have new editions.   
 *Note : This is not an ordered list*  
 *Note 2 : Links are pointing on amazon.fr*
 
