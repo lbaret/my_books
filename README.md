@@ -18,7 +18,7 @@ Here you can acces of all the books I own and I strongly recommend :
 
 **Watch out** : Some books have a new editions.   
 *Note : This is not an ordered list*  
-*Note 2 : Links are pointed on amazon.fr*
+*Note 2 : Links are pointing on amazon.fr*
 
 # Wish list 📃
 
