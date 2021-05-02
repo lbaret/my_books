@@ -49,8 +49,10 @@ Here you can acces of all the books I own and I strongly recommend :
 
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction - Trevor Hastie](https://www.amazon.fr/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Elements+of+Statistical+Learning%3A+Data+Mining%2C+Inference%2C+and+Prediction&qid=1619963378&sr=8-1)  
 <img src="https://github.com/lbaret/my_books/blob/master/img/ESL.jpg" width="200" height="240">
+  
 - [Information Theory, Inference and Learning Algorithms - David J. C. MacKay](https://www.amazon.fr/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Information+Theory%2C+Inference+and+Learning+Algorithms&qid=1619963413&sr=8-1)  
 <img src="https://github.com/lbaret/my_books/blob/master/img/ITILA.jpg" width="200" height="240">
+  
 - [Reinforcement Learning - Richard S. Sutton](https://www.amazon.fr/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262039249/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Reinforcement+Learning&qid=1619963456&sr=8-1)  
 <img src="https://github.com/lbaret/my_books/blob/master/img/RL.jpg" width="200" height="240">
 
